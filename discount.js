@@ -17,3 +17,7 @@ else if(carPrice>=1100){
 else{
     console.log(carPrice);
 }
+
+// isNan
+console.log(isNaN('29'));
+console.log(isNaN('fdf'));
